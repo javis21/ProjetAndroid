@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="bgColor" value="0" />
+        <val key="fgColor" value="0" />
+        <val key="transparency" value="0" />
+    </theme>
+</resource>
